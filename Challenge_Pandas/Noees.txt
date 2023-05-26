@@ -1,0 +1,8 @@
+Pandas:
+esc + a = add cells
+esc + b = add cells below
+esc + dd = delete cells
+
+convert a file to panda serie
+data_series = s = pd.Series(["", "", ""])
+print(pandaSeries)
